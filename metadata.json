@@ -1,0 +1,6 @@
+{
+  "name": "ATLASYNTH — Quant Research Agent",
+  "description": "ATLASYNTH — منصة بحث وتحليل كمي لأسواق Binance Spot مبنية على أسس EVA، للدراسة والمحاكاة والتحقق الإحصائي دون تنفيذ تداول حقيقي.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
